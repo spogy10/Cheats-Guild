@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cheats Guild</string>
+
+    <string name="edit_message">Enter number of players</string>
+    <string name="edit_message2">Enter your place</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
