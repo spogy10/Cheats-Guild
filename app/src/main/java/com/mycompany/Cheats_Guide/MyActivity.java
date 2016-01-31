@@ -49,8 +49,8 @@ import android.widget.EditText;
         int players = Integer.parseInt(editText.getText().toString());
         intent.putExtra("newplayers", players);
 
-        EditText editText2 = (EditText) findViewById(R.id.edit_message2);
-        int place = Integer.parseInt(editText2.getText().toString());
+        editText = (EditText) findViewById(R.id.edit_message2);
+        int place = Integer.parseInt(editText.getText().toString());
         intent.putExtra("newplace", place);
         startActivity(intent);
     }
